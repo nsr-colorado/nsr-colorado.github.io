@@ -130,7 +130,7 @@ header {
 			text-transform: capitalize;
 			
 
-			&:hover {
+			&:hover, &.active {
 				color: $cu-gold;
 			}
 		}

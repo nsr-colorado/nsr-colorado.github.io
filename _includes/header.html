@@ -13,11 +13,11 @@
 	
 	<nav>
 		<div class="left">
-			<a href="/"><i class="fa fa-home"></i></a>
-			<a href="/about/">about</a>
-			<a href="/people/">people</a>
-			<a href="/research/">research</a>
-			<a href="/publications/">publications</a>
+			{% assign url = page.url|remove:'index.html' %}
+			<a class="{% if url == "/" %}active{% endif %}" href="/"><i class="fa fa-home"></i></a>
+			{% for item in site.main_nav %}
+				<a class="{% if url == item.url %}active{% endif %}" href="{{ item.url | prepend: site.baseurl }}">{{ item.text }}</a>	
+			{% endfor %}
 		</div>
 		<div class="right">
 			<a href="{{ "/feed.xml" | prepend: site.baseurl }}"><i class="fa fa-rss"></i></a>
