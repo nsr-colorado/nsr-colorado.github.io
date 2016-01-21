@@ -1,5 +1,7 @@
 @charset 'utf-8';
 
+@import "fa/font-awesome";
+
 @import "foundation/foundation";
 
 @include foundation-global-styles;
@@ -7,3 +9,199 @@
 @include foundation-typography;
 @include foundation-visibility-classes;
 @include foundation-float-classes;
+
+$background-grey: #d1d1d1;
+$cu-dark-grey:    #565a5c;
+$cu-gold:         #cfb87c;
+$cu-light-grey:   #a2a4a3;
+$light-black:     #222222;
+
+$block-spacing-medium: 15px;
+$block-spacing-small:  0px;
+
+body {
+	background:  $background-grey;
+	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: 300;
+}
+
+header {
+
+	.top {
+		
+		@include breakpoint(small)  { margin: 0px 0px $block-spacing-small 0px; }
+
+		@include breakpoint(medium) { margin: 10px 0px $block-spacing-medium 0px; }
+		
+		background: $light-black;
+		border-top: 3px solid $cu-gold;
+		height:     70px;
+		
+		.ngn {
+			
+			@include breakpoint(large)  { font-size: 22px; }
+			
+			@include breakpoint(medium) { font-size: 20px; }
+			
+			@include breakpoint(small)  { font-size: 18px; }
+			
+			color:          #fff;
+			float:          left;
+			font-weight:    bold;
+			line-height:    90%;
+			padding:        15px 10px;
+			text-transform: capitalize;
+
+			.sub {
+				display:   block;
+				font-size: 12px;
+			}
+		}
+
+		.cu-full {
+			
+			@include breakpoint(medium) { font-size: 10px; }
+			
+			@include breakpoint(large) { font-size: 13px; }
+			
+			color:          #fff;
+			float:          right;
+			padding:        24px 10px;
+			text-transform: uppercase;
+			
+			a {
+				color: #fff;
+
+				&:hover {
+					color: #fff;
+				}
+			}
+		}
+	}
+
+	.boulder {
+		
+		@include breakpoint(small) {
+			height: 80px;
+			margin: 0px 0px $block-spacing-small 0px;
+		}
+
+		@include breakpoint(medium) {
+			height: 200px;
+			margin: 0px 0px $block-spacing-medium 0px;
+		}
+
+		background-image:    url(../img/boulder.jpg);
+		background-position: top;
+		background-size:     cover;
+	}
+
+	nav {
+		
+		background: $light-black;
+		border-top: 3px solid $cu-gold;
+		height:     40px;
+		padding:    5px 5px;
+
+		.left {
+			float:      left;
+			text-align: left;
+		}
+
+		.right {
+			float:      right;
+			text-align: right;
+		}
+
+		a {
+
+			@include breakpoint(small) {
+				font-size: 12px;
+				padding:   0px 2px;
+			}
+			
+			@include breakpoint(medium) {
+				font-size: 15px;
+				padding:   0px 5px;
+			}
+			
+			color:          #ffffff;
+			font-weight:    bold;
+			text-transform: capitalize;
+			
+
+			&:hover {
+				color: $cu-gold;
+			}
+		}
+	}
+}
+
+main {
+	
+	font-size:  15px;
+	padding:    10px 10px;
+	text-align: justify;
+
+	h1 {
+		font-size: 24px;
+	}
+
+	h2 {
+		font-size: 20px;
+	}
+
+	h3 {
+		font-size: 15px;
+	}
+
+	a {
+		color:           #333;
+		text-decoration: underline;
+
+		&:hover {
+			color: #000;
+		}
+	}
+
+	.news {
+		border-top: 2px solid $cu-gold;
+		margin:     10px 0px;
+		padding:    10px 0px;
+
+		li {
+			list-style-type: none;
+			padding-right:   20px;
+			
+			.post-title {
+				font-size:   15px;
+				font-weight: bold;
+			}
+
+			.post-date {
+				display:     inline-block;
+				font-size:   14px;
+				font-weight: normal;
+				margin:      0px 10px 0px 0px;
+			}
+			.post-excerpt {
+				font-size: 14px;
+			}
+			.post-readmore {
+				display: block;
+				text-align: right;
+			}
+		}
+	}
+}
+
+footer {
+	border-top: 1px solid $cu-light-grey;
+	color:      $cu-dark-grey;
+	display:    block;
+	font-size:  12px;
+	height:     100%;
+	padding:    5px 10px;
+	text-align: center;
+}
+
