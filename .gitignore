@@ -4,3 +4,4 @@ _site
 .DS_Store
 .rbenv-gemsets
 .ruby-version
+*.swp
