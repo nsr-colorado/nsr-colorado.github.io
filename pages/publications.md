@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## 2016
 
-* **Policy Routing using Process-Level Identifiers**: Oliver Michel, and Eric Keller. In *Proceedings of the 3rd IEEE Symposium on Software Defined Systems (SDS16)*, Berlin, Germany, April 2016.
+* **Policy Routing using Process-Level Identifiers**: Oliver Michel, and Eric Keller. In *Proceedings of the 3rd IEEE Symposium on Software Defined Systems (SDS16)*, Berlin, Germany, April 2016. [[full paper]](../data/doc/2016/prpl-sds16.pdf) [[bibtex]](../data/doc/2016/prpl-sds16.bib)
 
 ## 2015
 
