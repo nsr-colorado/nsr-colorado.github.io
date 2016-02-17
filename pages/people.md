@@ -29,7 +29,7 @@ Doctorate
 	: PhD Student, Computer Science
 	: murad dot kablan at colorado dot edu
 
-* ![Oliver Michel](/data/img/people) [**Oliver Michel**]()
+* ![Oliver Michel](/data/img/people/headshot-oliver.jpg) [**Oliver Michel**](/oliver)
 	: PhD Student, Computer Science
 	: oliver dot michel at colorado dot edu
 
@@ -40,6 +40,10 @@ Doctorate
 * ![Kelly Kaoudis](/data/img/people) [**Kelly Kaoudis**]()
 	: PhD Student, Computer Science
 	: kaoudis at colorado dot edu
+
+* ![Azzam Alsudais](/data/img/people) [**Azzam Alsudais**]()
+	: PhD Student, Computer Science
+	: azzam dot alsudais at colorado dot edu
 
 Master's
 --------
