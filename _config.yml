@@ -1,15 +1,15 @@
 
-title: Next Generations Networks Research Group
+title: Networking and Security Research Group
 description: >
-  The Next Generation Networks (NGN) Group at the the University of Colorado, led
-  by Eric Keller and Sangtae Ha, is researching all things having to do with the
+  The Networking and Security Research Group at the the University of Colorado, led
+  by Eric Keller, Sangtae Ha, and Eric Wustrow, is researching all things having to do with the
   networked systems of modern and future infrastructures. We look at the
   security, reliability, performance, etc. of networked infrastructures such as
   data centers, enterprises, and even smart grids - basically anything with a
   communication network.
 
 baseurl: ""
-url: "http://ngn-colorado.github.io"
+url: "http://nsr-colorado.github.io"
 
 main_nav:
   - text: people
@@ -23,3 +23,5 @@ main_nav:
 
 markdown: kramdown
 
+gems:
+  - jekyll-redirect-from
