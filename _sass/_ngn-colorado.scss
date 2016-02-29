@@ -27,6 +27,11 @@ body {
 
 header {
 
+	@include grid-row;
+	@include breakpoint(small)  { @include grid-col-size(12); }
+	@include breakpoint(medium) { @include grid-col-size(9);  }
+	@include breakpoint(large)  { @include grid-col-size(7);  }
+	
 	.top {
 		
 		@include breakpoint(small)  { margin: 0px 0px $block-spacing-small 0px; }
@@ -138,7 +143,12 @@ header {
 }
 
 main {
-	
+
+	@include grid-row;
+	@include breakpoint(small)  { @include grid-col-size(12); }
+	@include breakpoint(medium) { @include grid-col-size(9);  }
+	@include breakpoint(large)  { @include grid-col-size(7);  }
+
 	font-size:  15px;
 	padding:    10px 10px;
 	text-align: justify;
@@ -153,6 +163,10 @@ main {
 
 	h3 {
 		font-size: 15px;
+	}
+	
+	ul {
+		list-style-type: square;
 	}
 
 	a {
@@ -234,6 +248,12 @@ main {
 }
 
 footer {
+	
+	@include grid-row;
+	@include breakpoint(small)  { @include grid-col-size(12); }
+	@include breakpoint(medium) { @include grid-col-size(9);  }
+	@include breakpoint(large)  { @include grid-col-size(7);  }
+	
 	border-top: 1px solid $cu-light-grey;
 	color:      $cu-dark-grey;
 	display:    block;
