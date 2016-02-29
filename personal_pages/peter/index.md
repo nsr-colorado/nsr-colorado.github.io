@@ -1,8 +1,6 @@
 ---
 title: Peter
-redirect_from:
-  - /peter/
-  - /~peter/
+permalink: /peter/
 ---
 
 Hi, this is Peter's website.
