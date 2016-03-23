@@ -7,15 +7,15 @@ permalink: /people/
 Faculty
 =======
 
-* ![Eric Keller](/data/img/people/headshot-erick.jpg =130x) [**Eric Keller**](http://ngn.cs.colorado.edu/~ekeller/)
+* ![Eric Keller](/data/img/people/headshot-erick.jpg) [**Eric Keller**](http://ngn.cs.colorado.edu/~ekeller/)
 	: Assistant Professor, Electrical, Computer & Energy Engineering
 	: eric dot keller at colorado dot edu
 
-* ![Sangtae Ha](/data/img/people/headshot-sangtae.jpg =130x) [**Sangtae Ha**](http://ngn.cs.colorado.edu/~sangtae/)
+* ![Sangtae Ha](/data/img/people/headshot-sangtae.jpg) [**Sangtae Ha**](http://ngn.cs.colorado.edu/~sangtae/)
 	: Assistant Professor, Interdisciplinary Telecom Program
 	: sangtae dot ha at colorado dot edu
 
-* ![Eric Wustrow](/data/img/people/headshot-ericw.jpg =130x) [**Eric Wustrow**](https://ericw.us/trow/)
+* ![Eric Wustrow](/data/img/people/headshot-ericw.jpg) [**Eric Wustrow**](https://ericw.us/trow/)
 	: Assistant Professor, Electrical, Computer & Energy Engineering
 	: eric dot wustrow at colorado dot edu
 
@@ -29,7 +29,7 @@ Doctorate
 	: PhD Student, Computer Science
 	: murad dot kablan at colorado dot edu
 
-* ![Oliver Michel](/data/img/people/headshot-oliver.jpg =130x) [**Oliver Michel**](/oliver)
+* ![Oliver Michel](/data/img/people/headshot-oliver.jpg) [**Oliver Michel**](/oliver)
 	: PhD Student, Computer Science
 	: oliver dot michel at colorado dot edu
 
