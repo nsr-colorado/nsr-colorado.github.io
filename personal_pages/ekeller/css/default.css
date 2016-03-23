@@ -1,0 +1,351 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: url("../images/img01.gif") repeat-x scroll 0 0 #FFFFFF;
+    color: #222222;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    font-size: 12px;
+    text-align: justify;
+}
+h1, h2, h3 {
+    color: #333333;
+}
+h1, h2 {
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+h1 {
+    font-size: 197%;
+}
+h2 {
+    font-size: 152%;
+}
+h3 {
+    font-size: 100%;
+}
+p, ul, ol {
+    line-height: 1.8em;
+    margin-bottom: 12px;
+}
+ul, ol {
+    margin-left: 3em;
+}
+blockquote {
+    background: url("../images/img08.gif") no-repeat scroll 0 0 transparent;
+    font-style: italic;
+    padding-left: 3em;
+}
+a:link {
+    color: #1953A7;
+}
+a:active {
+    color: #ED5C0C;
+}
+a:visited {
+    color: #666666;
+}
+a:hover {
+    color: #067600;
+    text-decoration: none;
+}
+img {
+    border: medium none;
+}
+img.left {
+    float: left;
+    margin: 0 20px 10px 0;
+}
+img.right {
+    float: right;
+    margin: 0 0 10px 20px;
+}
+
+#menu {
+    border-right: 1px solid #EDEBD5;
+    height: 65px;
+    margin: 0 auto;
+    width: 770px;
+}
+#menu ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    border-left: 1px solid #EDEBD5;
+    color: #BABABA;
+    display: block;
+    float: left;
+    font-size: 144%;
+    height: 45px;
+    padding: 20px 0 0;
+    text-align: center;
+    text-decoration: none;
+    text-transform: lowercase;
+  /*  width: 109px;*/
+    width: 127px;
+
+}
+#menu a:hover {
+    background: none repeat scroll 0 0 #F7F7F4;
+}
+#menu .active a {
+    background: none repeat scroll 0 0 #D0B87C;
+    color: #FFFFFF;
+}
+#header {
+    height: 30px;
+    margin: 0 auto;
+    width: 770px;
+}
+#header h1 {
+/*    background: url("../images/img02.jpg") no-repeat scroll 0 0 transparent; */
+    float: left;
+    font-size: 36px;
+    height: 30px;
+    margin: 0;
+    padding: 5px 0 0;
+    text-align: left;
+/*    width: 220px; */
+}
+#header h2 {
+/*    background: url("../images/img03.jpg") no-repeat scroll 0 0 transparent; */
+    float: right;
+    height: 30px;
+    margin: 0;
+    padding: 20px 20px 0 0;
+    text-align: right;
+/*    width: 530px; */
+}
+#header a {
+    color: #FFFFFF;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: none;
+/*    text-transform: lowercase; */
+}
+
+
+#jobapp ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0 0 10px 15px;
+}
+#jobapp li {
+  border-bottom: 1px solid white;
+  color: #222222;
+}
+#jobapp a {
+   text-decoration: none;
+}
+
+
+#page {
+    margin: 0 auto;
+    padding: 30px 0;
+    width: 770px;
+}
+#content {
+    float: left;
+    padding-top: 20px;
+    width: 650px;
+}
+#contentnsb {  
+  float: left;
+    padding-top: 20px;
+    width: 750px;
+}
+#contentbigsb {
+    float: left;
+    padding-top: 20px;
+    width: 500px;
+}
+.post {
+    margin-bottom: 20px;
+    padding: 0 20px;
+}
+
+.post h3 {
+   margin-left: 20px;
+}
+
+.post ul {
+   margin-left: 20px;
+//    list-style: none outside none;
+}
+
+.pubul {
+   margin-left: 20px;
+    list-style: none outside none;
+}
+.pubul a:link {text-decoration:none;}
+.pubul a:visited {text-decoration:none;}
+.pubul a:hover {text-decoration:none;}
+
+
+.hr {
+    border-bottom: 1px solid #EDEBD5;
+}
+#sidebar {
+    background: none repeat scroll 0 0 #EDEBD5;
+    float: right;
+    padding: 5px 0px 0px 0px;
+    width: 210px;
+    margin:  5px 0px 0px 0px;
+}
+#sidebar h2 {
+    color: #FFFFFF;
+    margin: 0;
+    padding: 5px 15px;
+}
+#sidebar h3 {
+    color: #FFFFFF;
+    font-size: 85%;
+}
+#sidebar ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 15px;
+}
+#sidebar li {
+  border-bottom: 1px solid white;
+  color: #222222;
+}
+#sidebar a {
+   text-decoration: none;
+}
+.orangebox {
+    background: url("../images/img05.gif") repeat-y scroll 0 0 transparent;
+}
+.orangebox h2 {
+    background: url("../images/img06.gif") repeat-y scroll 0 0 transparent;
+}
+#footer {
+    background: url("../images/img04.gif") repeat-x scroll 0 0 #EDEBD5;
+    clear: both;
+    height: 100px;
+    padding: 25px 0;
+}
+#footer p {
+    font-size: 77%;
+    margin: 0;
+    text-align: center;
+}
+#footer a {
+    color: #666666;
+}
+
+#footerB {
+    background: url("../images/img04.gif") repeat-x scroll 0 0 #EDEBD5;
+    clear: both;
+    height: 500px;
+    padding: 25px 0;
+}
+#footerB p {
+    font-size: 77%;
+    margin: 0;
+    text-align: center;
+}
+#footerB a {
+    color: #666666;
+}
+
+
+#abstractsidebar {
+    background: none repeat scroll 0 0 #EDEBD5;
+    float: right;
+    padding: 5px 0px 0px 0px;
+    width: 260px;
+    height: 600px;
+    margin:  200px 0px 0px 0px;
+}
+
+
+
+// from psacake.com
+a.tooltip {
+    position:relative; /*this is the key*/
+    z-index:24; background-color:white;
+    color:#000;
+    text-decoration:none}
+
+a.tooltip:hover{z-index:25; background-color:#ff0}
+
+a.tooltip span{display: none}
+
+a.tooltip:hover span{ /*the span will display just on :hover state*/
+    display:block;
+    position:absolute;
+    top:-100px; left:50px; width:650px;
+    border:1px solid #0cf;
+    background-color:#cff; color:#000;
+    text-align: left}
+
+
+
+
+/*---------- bubble tooltip -----------*/
+a.tt{
+    position:relative;
+    z-index:24;
+//    color:#3CA3FF;
+    color:#000;
+//	font-weight:bold;
+    text-decoration:none;
+}
+a.tt span{ display: none; }
+
+/*background:; ie hack, something must be changed in a for ie to execute it*/
+a.tt:hover{ z-index:25; color: #aaaaff; background:;}
+a.tt:hover span.tooltip{
+    display:block;
+    position:absolute;
+    top:-50px; left:100px;
+	padding: 0px 0 0 0;
+	width:650px;
+	color: #993300;
+    text-align: center;
+	filter: alpha(opacity:90);
+	KHTMLOpacity: 0.90;
+	MozOpacity: 0.90;
+	opacity: 0.90;
+}
+a.tt:hover span.top{
+	display: block;
+	padding: 30px 8px 0;
+    background: url(bubble.gif) no-repeat top;
+}
+a.tt:hover span.middle{ /* different middle bg for stretch */
+	display: block;
+	padding: 0 8px; 
+//	background: url(images/bubble_filler.gif) repeat bottom; 
+    background-color:#cff; color:#000;
+text-align:left;
+}
+a.tt:hover span.bottom{
+	display: block;
+	padding:3px 8px 10px;
+	color: #548912;
+//    background: url(images/bubble.gif) no-repeat bottom;
+    border:1px solid #0cf;
+    background-color:#cff; color:#000;
+}
+
+.projdesc {
+   padding-left: 20px;
+   min-height:150px;
+}
+
+.h2 {
+    font-size: 152%;
+   padding-left: 20px;
+   padding-bottom: 5px;
+}
+
+.projpubs {
+}
