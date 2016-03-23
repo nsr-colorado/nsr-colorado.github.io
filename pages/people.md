@@ -25,7 +25,7 @@ Students
 Doctorate
 ---------
 
-* ![Murad Kablan](/data/img/people/headshot-murad.jpg){:width="130px"} [**Murad Kablan**](http://muradkablan.com/)
+* ![Murad Kablan](/data/img/people/headshot-murad.jpg) [**Murad Kablan**](http://muradkablan.com/)
 	: PhD Student, Computer Science
 	: murad dot kablan at colorado dot edu
 
