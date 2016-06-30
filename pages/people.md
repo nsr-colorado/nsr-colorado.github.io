@@ -33,7 +33,7 @@ Doctorate
 	: PhD Student, Computer Science
 	: oliver dot michel at colorado dot edu
 
-* ![Michael Coughlin](/data/img/people/stick.jpg) [**Michael Coughlin**](http://ngn.cs.colorado.edu/~coughlin/)
+* ![Michael Coughlin](/data/img/people/stick.jpg) [**Michael Coughlin**](/coughlin)
 	: PhD Student, Electrical, Computer & Energy Engineering
 	: michael dot coughlin at colorado dot edu
 

@@ -1,0 +1,4 @@
+[submodule "coughlin"]
+	path = coughlin
+	url = git@github.com:mcoughli/ngn-site.git
+	branch = master
