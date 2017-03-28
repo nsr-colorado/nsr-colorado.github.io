@@ -29,7 +29,7 @@ Doctorate
 	: PhD Student, Computer Science
 	: murad dot kablan at colorado dot edu
 
-* ![Oliver Michel](/data/img/people/headshot-oliver.jpg) [**Oliver Michel**](/~oliver)
+* ![Oliver Michel](/data/img/people/headshot-oliver.jpg) [**Oliver Michel**](/oliver)
 	: PhD Student, Computer Science
 	: oliver dot michel at colorado dot edu
 
