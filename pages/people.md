@@ -37,7 +37,7 @@ Doctorate
 	: PhD Student, Electrical, Computer & Energy Engineering
 	: michael dot coughlin at colorado dot edu
 
-* ![Azzam Alsudais](/data/img/people/stick.jpg) [**Azzam Alsudais**]
+* ![Azzam Alsudais](/data/img/people/headshot-azzam.jpg) [**Azzam Alsudais**](http://csel.cs.colorado.edu/~azal6477/)
 	: PhD Student, Computer Science
 	: azzam dot alsudais at colorado dot edu
 
