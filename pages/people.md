@@ -61,7 +61,7 @@ Alumni
 ======
 
 * ![Aimee Coughlin](/data/img/people/headshot-aimee.jpg) [**Aimee Coughlin**](/coughlin)
-	: PhD Electical Engineering. 2018
+	: PhD Electical Engineering. 2018.
 	: aimee dot coughlin at colorado dot edu
     : Security Engineer on Corporate Security at Facebook, Inc.
 
