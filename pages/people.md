@@ -33,9 +33,9 @@ Doctorate
 	: PhD Student, Computer Science
 	: oliver dot michel at colorado dot edu
 
-* ![Michael Coughlin](/data/img/people/stick.jpg) [**Michael Coughlin**](/coughlin)
+* ![Aimee Coughlin](/data/img/people/stick.jpg) [**Aimee Coughlin**](/coughlin)
 	: PhD Student, Electrical, Computer & Energy Engineering
-	: michael dot coughlin at colorado dot edu
+	: aimee dot coughlin at colorado dot edu
 
 * ![Azzam Alsudais](/data/img/people/headshot-azzam.jpg) [**Azzam Alsudais**](http://csel.cs.colorado.edu/~azal6477/)
 	: PhD Student, Computer Science
@@ -63,7 +63,7 @@ Visitors
 Alumni
 ======
 
-* [**Kelly Kaoudis**]. M.S. Computer Science. 2015.
+* [**Kelly Kaoudis**](https://kellykaoud.is/) M.S. Computer Science. 2015.
 
 * [**Ali Ismail**](https://www.linkedin.com/in/ali-ismail-837aa875). M.S. Computer Engineering. 2015.  
   Thesis -- Cloud RTR: Cloud Infrastructure for Apps with Hardware.
