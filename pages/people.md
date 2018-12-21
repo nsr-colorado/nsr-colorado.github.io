@@ -33,9 +33,6 @@ Doctorate
 	: PhD Student, Computer Science
 	: oliver dot michel at colorado dot edu
 
-* ![Aimee Coughlin](/data/img/people/stick.jpg) [**Aimee Coughlin**](/coughlin)
-	: PhD Student, Electrical, Computer & Energy Engineering
-	: aimee dot coughlin at colorado dot edu
 
 * ![Azzam Alsudais](/data/img/people/headshot-azzam.jpg) [**Azzam Alsudais**](http://csel.cs.colorado.edu/~azal6477/)
 	: PhD Student, Computer Science
@@ -62,6 +59,11 @@ Visitors
 
 Alumni
 ======
+
+* ![Aimee Coughlin](/data/img/people/stick.jpg) [**Aimee Coughlin**](/coughlin)
+	: PhD Electical Engineering. 2018
+	: aimee dot coughlin at colorado dot edu
+    : Security Engineer on Corporate Security at Facebook, Inc.
 
 * [**Kelly Kaoudis**](https://kellykaoud.is/) M.S. Computer Science. 2015.
 
