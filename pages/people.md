@@ -34,7 +34,7 @@ Doctorate
 	: oliver dot michel at colorado dot edu
 
 
-* ![Azzam Alsudais](/data/img/people/headshot-azzam.jpg) [**Azzam Alsudais**](http://csel.cs.colorado.edu/~azal6477/)
+* ![Azzam Alsudais](/data/img/people/headshot-azzam.jpg) [**Azzam Alsudais**](https://aalsudais.github.io/)
 	: PhD Student, Computer Science
 	: azzam dot alsudais at colorado dot edu
 
